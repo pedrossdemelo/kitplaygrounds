@@ -86,6 +86,8 @@
   <meta name="description" content="A Wordle clone written in SvelteKit" />
 </svelte:head>
 
+<noscript>JS turned off lol</noscript>
+
 <h1 class="visually-hidden">Sverdle</h1>
 
 <form
